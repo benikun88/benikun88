@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Benjamin kun
-- 👀 I’m interested in SW QA , automatio , slenium 
+- 👀 I’m interested in SW QA , automation , slenium 
 - 🌱 I’m currently learning selenium
 
 
