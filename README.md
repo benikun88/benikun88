@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Benjamin kun
 - 👀 I’m interested in SW QA , automation , selenium 
-- 🌱 I’m currently learning selenium
+- 🌱 I’m currently doing projects in Playwrite , Selenium ,Appium in Python and Java
 
 
 <!---
